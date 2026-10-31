@@ -1,23 +1,23 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 10/31/2026, 3:05:14 PM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 10/31/2026, 5:05:13 PM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
-- bulkhead.bananafest-destiny.com: 46 people, 100 page views, 504 bot views left out
-- puzzlepress.bananafest-destiny.com: 3 people, 10 page views, 9 bot views left out
-- shelfcall.com: 2 people, 10 page views, 0 bot views left out
-- sizecurve.bananafest-destiny.com: 1 people, 1 page views, 49 bot views left out
+- bulkhead.bananafest-destiny.com: 46 people, 101 page views, 508 bot views left out
+- puzzlepress.bananafest-destiny.com: 4 people, 11 page views, 15 bot views left out
+- shelfcall.com: 2 people, 10 page views, 6 bot views left out
+- sizecurve.bananafest-destiny.com: 1 people, 1 page views, 150 bot views left out
 - tracepress.bananafest-destiny.com: 0 people, 64 page views, 1311 bot views left out
 - screenshelf.bananafest-destiny.com: 0 people, 1 page views, 0 bot views left out
 - vibecider.bananafest-destiny.com: 0 people, 0 page views, 5 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- tracepress.bananafest-destiny.com: 33778 requests, 3719 visits
-- bulkhead.bananafest-destiny.com: 16163 requests, 3124 visits
-- puzzlepress.bananafest-destiny.com: 7935 requests, 5353 visits
-- shelfcall.com: 3530 requests, 923 visits
-- vibecider.bananafest-destiny.com: 3474 requests, 653 visits
-- helpdesk.bananafest-destiny.com: 2530 requests, 217 visits
-- screenshelf.bananafest-destiny.com: 1876 requests, 58 visits
-- sizecurve.bananafest-destiny.com: 1712 requests, 826 visits
+- tracepress.bananafest-destiny.com: 33737 requests, 3648 visits
+- bulkhead.bananafest-destiny.com: 15642 requests, 3112 visits
+- puzzlepress.bananafest-destiny.com: 7793 requests, 5208 visits
+- shelfcall.com: 3562 requests, 936 visits
+- vibecider.bananafest-destiny.com: 3534 requests, 667 visits
+- helpdesk.bananafest-destiny.com: 2531 requests, 212 visits
+- sizecurve.bananafest-destiny.com: 2058 requests, 1048 visits
+- screenshelf.bananafest-destiny.com: 1877 requests, 59 visits
 
 ## Google search (Search Console, 2-3 days behind)
 - bulkhead.bananafest-destiny.com: 2 clicks, 13 shown
