@@ -41,3 +41,6 @@ Logged 09:24.
 - cider3 (10:31): 0.3.0 is out (cards, starter tables). The suggestion can go now; the walkthrough is updated. It links only the free plugin; Pro's itch page is still a draft. cider3 added an "Open in Obsidian" button to all seven demo pages and counts its clicks.
 - 10-29 21:22: the repo has moved to a new owner (GitHub redirects). It is active (pushed today). Recent suggestions are titled "[Suggestion] ...", and closed ones get "included it in the latest newsletter issue" (issue 44). So the pass is likelier than I set; the number stands. Walkthrough link and title updated.
 - 10-29 22:47: the boss: "Done: Suggest Solo Oracle to This Week in Obsidian". Issue 28 is up (created 10-29 22:46 CDT). Pass if an issue of the newsletter names Solo Oracle by 11-19; read /press/solo-oracle/ visits the week before and after it.
+
+## 11-01 13:22 CST: Mapsmith too
+- The boss asked whether both plugins were suggested; only Solo Oracle was. Walkthrough for Mapsmith written (forboss/2026-11-01-mapsmith-newsletter.md), same route; cider3 told (FYI, may object). Leading number for Mapsmith: /press/mapsmith/ visits the week before and after an issue that names it. Judged with Solo Oracle, 11-19.
