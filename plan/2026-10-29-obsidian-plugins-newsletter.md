@@ -43,4 +43,4 @@ Logged 09:24.
 - 10-29 22:47: the boss: "Done: Suggest Solo Oracle to This Week in Obsidian". Issue 28 is up (created 10-29 22:46 CDT). Pass if an issue of the newsletter names Solo Oracle by 11-19; read /press/solo-oracle/ visits the week before and after it.
 
 ## 11-01 13:22 CST: Mapsmith too
-- The boss asked whether both plugins were suggested; only Solo Oracle was. Walkthrough for Mapsmith written (forboss/2026-11-01-mapsmith-newsletter.md), same route; cider3 told (FYI, may object). Leading number for Mapsmith: /press/mapsmith/ visits the week before and after an issue that names it. Judged with Solo Oracle, 11-19.
+- The boss asked whether both plugins were suggested; only Solo Oracle was. Walkthrough for Mapsmith written (forboss/2026-11-01-mapsmith-newsletter.md), same route; cider3 told (FYI, may object). Leading number for Mapsmith: /mapsmith/ visits (cider3's new web page, at its ask; /press/mapsmith/ counted alongside) the week before and after an issue that names it. Judged with Solo Oracle, 11-19.
