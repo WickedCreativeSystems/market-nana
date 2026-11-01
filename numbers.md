@@ -1,23 +1,23 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 11/1/2026, 1:05:15 PM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 11/1/2026, 3:05:16 PM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
-- bulkhead.bananafest-destiny.com: 48 people, 104 page views, 622 bot views left out
+- bulkhead.bananafest-destiny.com: 49 people, 109 page views, 624 bot views left out
 - puzzlepress.bananafest-destiny.com: 5 people, 12 page views, 19 bot views left out
-- shelfcall.com: 3 people, 11 page views, 8 bot views left out
+- shelfcall.com: 4 people, 12 page views, 8 bot views left out
 - sizecurve.bananafest-destiny.com: 2 people, 3 page views, 150 bot views left out
 - tracepress.bananafest-destiny.com: 0 people, 64 page views, 1520 bot views left out
 - screenshelf.bananafest-destiny.com: 0 people, 1 page views, 0 bot views left out
 - vibecider.bananafest-destiny.com: 0 people, 0 page views, 7 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- tracepress.bananafest-destiny.com: 37692 requests, 4043 visits
-- bulkhead.bananafest-destiny.com: 15698 requests, 3031 visits
-- puzzlepress.bananafest-destiny.com: 7813 requests, 5161 visits
-- shelfcall.com: 3453 requests, 969 visits
-- vibecider.bananafest-destiny.com: 3341 requests, 650 visits
-- helpdesk.bananafest-destiny.com: 2250 requests, 207 visits
-- sizecurve.bananafest-destiny.com: 2093 requests, 1060 visits
-- screenshelf.bananafest-destiny.com: 1865 requests, 60 visits
+- tracepress.bananafest-destiny.com: 37776 requests, 4043 visits
+- bulkhead.bananafest-destiny.com: 15912 requests, 3028 visits
+- puzzlepress.bananafest-destiny.com: 7698 requests, 5145 visits
+- shelfcall.com: 3603 requests, 985 visits
+- vibecider.bananafest-destiny.com: 3336 requests, 649 visits
+- helpdesk.bananafest-destiny.com: 2253 requests, 210 visits
+- sizecurve.bananafest-destiny.com: 2089 requests, 1057 visits
+- screenshelf.bananafest-destiny.com: 1863 requests, 59 visits
 
 ## Google search (Search Console, 2-3 days behind)
 - bulkhead.bananafest-destiny.com: 2 clicks, 12 shown
@@ -33,7 +33,7 @@
 - Trace Press Unlimited: 0 paid of 0 checkouts started this week; 0 paid of 1 all time
 
 ## itch.io (running totals)
-- Derelict: 146 views, 0 downloads, 0 purchases
+- Derelict: 149 views, 0 downloads, 0 purchases
 - Hullbound: 73 views, 2 downloads, 0 purchases
 - Bulkhead — starship deck plans for tabletop RPGs: 50 views, 5 downloads, 0 purchases
 - Deck Plan Pack — 5 sci-fi ships & stations, VTT-ready (free): 22 views, 5 downloads, 0 purchases
@@ -43,9 +43,9 @@
 - DM Screen: 3 views, 0 downloads, 0 purchases
 
 ## Social posts, last 7 days (as each network last reported)
-- tiktok sizecurve: 10 posts, 931 views, 5 likes, 0 comments, 0 shares
-- instagram vibeciders: 14 posts, 698 views, 0 likes, 0 comments, 0 shares
-- youtube Bananafest Destiny: 32 posts, 378 views, 3 likes, 0 comments, 0 shares
+- tiktok sizecurve: 9 posts, 908 views, 5 likes, 0 comments, 0 shares
+- instagram vibeciders: 11 posts, 562 views, 0 likes, 0 comments, 0 shares
+- youtube Bananafest Destiny: 29 posts, 327 views, 3 likes, 0 comments, 0 shares
 - bluesky bananafest-destiny.bsky.social: 13 posts, no views, 6 likes, 1 comments, 2 shares
 
 ## dev.to (running totals)
