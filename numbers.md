@@ -1,23 +1,23 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 11/1/2026, 1:05:14 AM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 11/1/2026, 7:05:14 AM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
-- bulkhead.bananafest-destiny.com: 46 people, 102 page views, 513 bot views left out
-- puzzlepress.bananafest-destiny.com: 5 people, 12 page views, 17 bot views left out
+- bulkhead.bananafest-destiny.com: 47 people, 103 page views, 616 bot views left out
+- puzzlepress.bananafest-destiny.com: 5 people, 12 page views, 18 bot views left out
 - shelfcall.com: 2 people, 10 page views, 8 bot views left out
-- sizecurve.bananafest-destiny.com: 1 people, 1 page views, 150 bot views left out
-- tracepress.bananafest-destiny.com: 0 people, 64 page views, 1360 bot views left out
+- sizecurve.bananafest-destiny.com: 2 people, 3 page views, 150 bot views left out
+- tracepress.bananafest-destiny.com: 0 people, 64 page views, 1446 bot views left out
 - screenshelf.bananafest-destiny.com: 0 people, 1 page views, 0 bot views left out
 - vibecider.bananafest-destiny.com: 0 people, 0 page views, 5 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- tracepress.bananafest-destiny.com: 34981 requests, 3763 visits
-- bulkhead.bananafest-destiny.com: 15423 requests, 3017 visits
-- puzzlepress.bananafest-destiny.com: 7898 requests, 5193 visits
-- shelfcall.com: 3391 requests, 944 visits
-- vibecider.bananafest-destiny.com: 3286 requests, 660 visits
-- helpdesk.bananafest-destiny.com: 2535 requests, 216 visits
-- sizecurve.bananafest-destiny.com: 2075 requests, 1057 visits
-- screenshelf.bananafest-destiny.com: 1879 requests, 61 visits
+- tracepress.bananafest-destiny.com: 36317 requests, 3912 visits
+- bulkhead.bananafest-destiny.com: 15736 requests, 3022 visits
+- puzzlepress.bananafest-destiny.com: 7892 requests, 5181 visits
+- shelfcall.com: 3425 requests, 952 visits
+- vibecider.bananafest-destiny.com: 3292 requests, 638 visits
+- helpdesk.bananafest-destiny.com: 2259 requests, 213 visits
+- sizecurve.bananafest-destiny.com: 2094 requests, 1059 visits
+- screenshelf.bananafest-destiny.com: 1882 requests, 63 visits
 
 ## Google search (Search Console, 2-3 days behind)
 - bulkhead.bananafest-destiny.com: 2 clicks, 12 shown
@@ -33,21 +33,23 @@
 - Trace Press Unlimited: 0 paid of 0 checkouts started this week; 0 paid of 1 all time
 
 ## itch.io (running totals)
-- Derelict: 141 views, 0 downloads, 0 purchases
+- Derelict: 143 views, 0 downloads, 0 purchases
 - Hullbound: 72 views, 2 downloads, 0 purchases
-- Bulkhead — starship deck plans for tabletop RPGs: 49 views, 5 downloads, 0 purchases
+- Bulkhead — starship deck plans for tabletop RPGs: 50 views, 5 downloads, 0 purchases
 - Deck Plan Pack — 5 sci-fi ships & stations, VTT-ready (free): 22 views, 5 downloads, 0 purchases
 - Deck Plan Pack 2: Stations & Derelicts (free): 15 views, 1 downloads, 0 purchases
 - Solo Oracle Pro: 7 views, 0 downloads, 0 purchases
+- Mapsmith Pro: 4 views, 0 downloads, 0 purchases
 - DM Screen: 3 views, 0 downloads, 0 purchases
 
 ## Social posts, last 7 days (as each network last reported)
 - tiktok sizecurve: 9 posts, 839 views, 5 likes, 0 comments, 0 shares
 - instagram vibeciders: 13 posts, 695 views, 0 likes, 0 comments, 0 shares
 - youtube Bananafest Destiny: 28 posts, 296 views, 2 likes, 0 comments, 0 shares
-- bluesky bananafest-destiny.bsky.social: 11 posts, no views, 6 likes, 1 comments, 2 shares
+- bluesky bananafest-destiny.bsky.social: 12 posts, no views, 6 likes, 1 comments, 2 shares
 
 ## dev.to (running totals)
+- Five bugs in twenty-four hours, and not one of them failed: 10 views, 0 reactions, 0 comments
 - I told the owner the site was up to date. It was listing 5 products out of 11.: 10 views, 0 reactions, 0 comments
 - Turning 'vodka two point five' into a number: parsing spoken bar counts: 22 views, 0 reactions, 0 comments
 - I used an image model for one video, and the best picture it made is the one I threw away: 13 views, 1 reactions, 0 comments
@@ -55,11 +57,10 @@
 - The kill criterion passed — in the week somebody added to it: 43 views, 0 reactions, 2 comments
 - I started an A/B test on 18 October. So did somebody else, on the same clips.: 20 views, 0 reactions, 0 comments
 - Three times in one week, a refusal to answer got recorded as an answer: 22 views, 0 reactions, 2 comments
-- 280 boards in two days looked like a bot. Two lines of JavaScript said it was a person.: 20 views, 0 reactions, 0 comments
+- 280 boards in two days looked like a bot. Two lines of JavaScript said it was a person.: 30 views, 0 reactions, 0 comments
 - Week five — 756 commits, nine real visitors, and then six days of nothing: 42 views, 1 reactions, 8 comments
 - Week three — 989 commits, 30 impressions, zero clicks, $0: 55 views, 0 reactions, 2 comments
 - Foundry's package list wants a paid licence and human-written text. You can still ship a module — here is the manifest-URL route.: 10 views, 0 reactions, 0 comments
 - We posted to the subreddit full of our users. They told us to go away. It was our best traffic day.: 45 views, 1 reactions, 2 comments
 - I read the same 298 Shopify catalogues again a month later: 30 views, 0 reactions, 0 comments
 - An agent inherited an AI-written project. Its first decision was to turn the AI off.: 10 views, 0 reactions, 0 comments
-- An agent set the day to kill its own app. With two days left, the owner moved it.: 12 views, 0 reactions, 0 comments
