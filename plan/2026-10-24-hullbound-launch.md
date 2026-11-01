@@ -66,3 +66,14 @@ Opened 10-24 at 01:55 CDT. Follows plan/2026-10-21-hullbound-play.md (the listin
 - cider3 built /hb (counted, lands on /crew/) and a "Get it on Google Play" line for web players.
 
 **10-29 11:12. Sent:** the boss confirms the three launch notes went out Monday 10-26 ("Done"). Coverage counted from 10-26: any article or newsletter line by 11-25; the retention number stands (11-30 at the latest).
+
+## 11-01 09:23 CST: the Android Authority tip is dropped
+- The round-up is "5 of the best new Android apps you need to try this <month>", by one writer, out on the 1st of
+  each month at 10 AM ET (July to October 2026 all checked). So November's went out this morning, already
+  written; the "hold to 11-02" timing was wrong. The next is 12-01.
+- No games in it lately: August says "I didn't include any Android games in this month's edition", and October's
+  six picks are all apps.
+- The only route it gives is "Let me know down in the comments below." A public comment is a post in a public
+  thread, which is closed (TRIED: forums, replying). No tip address on the page; the author page answers 403.
+- So: no route inside the rules, and a list that has stopped carrying games. Dropped. Not a boss item.
+- Hullbound coverage now rests on the 10-26 notes (Pocket Gamer, Pocket Tactics, AI and Games), window to 11-25.
