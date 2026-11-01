@@ -77,3 +77,6 @@ Opened 10-24 at 01:55 CDT. Follows plan/2026-10-21-hullbound-play.md (the listin
   thread, which is closed (TRIED: forums, replying). No tip address on the page; the author page answers 403.
 - So: no route inside the rules, and a list that has stopped carrying games. Dropped. Not a boss item.
 - Hullbound coverage now rests on the 10-26 notes (Pocket Gamer, Pocket Tactics, AI and Games), window to 11-25.
+
+## 11-01 CST: AI and Games newsletter check (the boss asked)
+- The one issue since the 10-26 note (Wed 10-28, "Claude Coding Chaos & Resonance") is about decompiling and modding with Claude, not us. The full post has no Hullbound or studio mention. The next issue is likely Wed 11-04.
