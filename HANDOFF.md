@@ -89,7 +89,7 @@ shelfcall-live-strategy is now full at 6; open a new thread next time).
 
 ## Tools
 - scratch/beacon.py: people visits by host and referrer. `python3 -I
-  scratch/beacon.py <startZ> <endZ>`, piped through the zone mask sed. CDT = Z-5.
+  scratch/beacon.py <startZ> <endZ>`, piped through the zone mask sed. CDT = Z-5 until 11-01 02:00; from then CST = Z-6 (beacon windows shift an hour).
 - scratch/meta_fetches.py: Meta preview fetches of Puzzle Press from the zone log
   (about 300 a day still, 304 on 10-26). Same mask.
 - The session scratchpad does not survive a restart; keep scripts in scratch/.
