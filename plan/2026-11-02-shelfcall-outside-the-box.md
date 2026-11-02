@@ -108,3 +108,25 @@ Logged 11:30.
 - Its point on the seed: the first bar every loop needs could be the boss's own, if its owner agrees. That question
   has been on the sheets since 10-28.
 - Waiting on the solver before I bring the boss anything.
+
+## Solver (15:49): stop hunting for carriers; convert the people who already arrive
+- It agrees no outbound carrier is open. But about 13 real people a week already reach shelfcall.com, and the ad
+  has had 8 clicks for about $27. None of them has counted, because the first thing a visitor meets is
+  sign-up and setup.
+- **Its bet: "your bar's numbers before you count."** The visitor types their bar's name (or connects Square), and
+  the agents read its public menu and show each drink's estimated cost and margin (the margin sheet, but pulled
+  by the visitor instead of handed over by the boss), with a count sheet built from it. They tap the mic, see
+  shelf value, and give an email only to save.
+- **Plus loops that start before anyone counts:**
+  - "Send to whoever does our count" (owner to manager);
+  - a bartender's "our margarita keeps the least" (bartender to manager);
+  - a QR code so a barback can join a split count;
+  - the report laid out as a bookkeeper's close;
+  - counts that follow the counter to their next bar;
+  - a trustee-format report for VFW and Legion canteens.
+- A third, slower route: an open voice-count engine that AI app builders pull in, with a credit line. Whether a
+  public repo counts as a listing is the boss's ruling.
+- Its pass: 1 stranger completes a full area dated Nov 28 to Dec 1. Its kill: no stranger taps the mic by Nov 22.
+- Already partly live: cider2's no-account demo bar (today). The new piece is the visitor's own bar from its menu.
+- Sent to the adversary (menu findability, who the ad clicks are, trust in a wrong estimate, prior art, and
+  whether it is just a free tool).
