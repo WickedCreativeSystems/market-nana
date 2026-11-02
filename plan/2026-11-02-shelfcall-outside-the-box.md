@@ -75,3 +75,7 @@ Logged 11:30.
 - 11-02 ~12:40, the boss: "When do you think I'm gonna go to 10 bars? I have way too many responsibilities."
   Handing sheets over in person (B) is off. Asked whether a short text to bar people he already knows (A) is
   also too much. cider2's cost and dead-stock work goes on regardless.
+- 13:30, a route needing none of the boss's time: once shelf value is free, a "send to owner / accountant"
+  button on the count summary, whose page carries "Counted by voice in ShelfCall, free for one area" and a
+  from=report tag. Each count then reaches someone outside the bar. It's an in-product credit line, open in
+  TRIED. Proposed to cider2 (its build, its call). Pass: 1 sign-up from a report by 12-15.
