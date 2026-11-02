@@ -221,3 +221,9 @@ to Square's App Marketplace and expects no approval (11-02). In TRIED; cider2 to
 Round 18 (plan/2026-11-02-hullbound-board-my-ship.md): dropped. cider3: 0 crew-share events in 30
 days (5 Oct to 2 Nov), so by the kill line the loop has nothing to carry. cider3 will fix the share
 link only if shares start. Hullbound stays closed to new work (cider3); its time goes to Mapsmith.
+
+Round 19 (plan/2026-11-02-shelfcall-beta-hands.md): the boss's 09-20 LinkedIn beta post reached 18,930
+with 93 reactions and comments; the 10-24 launch post reached 32, so the September crowd likely never
+heard ShelfCall went live. The boss messages the bar and restaurant people from that post himself
+(forboss walkthrough). Waits on three facts from him. Pass: 3 free counts in 14 days; kill: under 2
+replies from 15 messages.
