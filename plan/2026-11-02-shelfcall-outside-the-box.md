@@ -72,3 +72,6 @@ Logged 11:30.
   summary saying "count again next week to see what isn't moving"; (3) variance in dollars and cost per
   drink, $59 plan, later that week; invoice photos later. Each deploy waits on the boss's yes (1 and 2 in
   about 2 days). The sheet's close changes only when cider2 says a piece is live.
+- 11-02 ~12:40, the boss: "When do you think I'm gonna go to 10 bars? I have way too many responsibilities."
+  Handing sheets over in person (B) is off. Asked whether a short text to bar people he already knows (A) is
+  also too much. cider2's cost and dead-stock work goes on regardless.

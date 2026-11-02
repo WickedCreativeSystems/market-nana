@@ -559,3 +559,8 @@ Flatdesk (helpdesk.bananafest-destiny.com: a support inbox in the admin, with or
   himself). Another store, shelf or listing for an existing app is the old playbook in a new place, not
   marketing differently (RULES §0). Before offering an idea, check it isn't a listing, post, pitch or
   directory under another name, and ask whether he has done it himself.
+
+## 2026-11-02: the boss's time
+- "When do you think I'm gonna go to 10 bars? I have way too many responsibilities." No idea may rest on
+  the boss's legwork: no visits, nothing repeated per prospect. His part has to be minutes, once. Check
+  this before offering, along with "is it new" (above).
