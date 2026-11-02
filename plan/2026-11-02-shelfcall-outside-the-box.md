@@ -63,3 +63,7 @@ Logged 11:30.
 - One check is open: recipes and sales are on the paid plan; the free plan counts one area only. Whether
   ShelfCall shows cost per drink at all waits on cider2. The sheet's last lines get fixed to match before
   any sheet goes out.
+- cider2 (mail check, 11:30): no objection. ShelfCall has no bottle-cost entry and computes no pour cost;
+  its money feature is variance (recipes times Square sales, against what left the shelf), on the $59 plan
+  only. So the sheet now says the margins hold only if drinks pour to recipe, and ShelfCall shows whether they
+  do. The recipe import waits until the boss commits to 10 bars and 2 or more upgrade.
