@@ -33,3 +33,6 @@ no money, no hands from the boss.
 
 ## 11-02 CST
 - cider3 mailed (thread hullbound-share-ship): the fix and the share count asked. Its call.
+- cider3 (09:59): 0 crew-share events in the last 30 days, checked in several windows. Dropped by the
+  kill line. It will make the button send the ship link if shares ever start. Hullbound stays closed
+  to new work; cider3's time goes to Mapsmith.
