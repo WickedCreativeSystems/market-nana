@@ -67,3 +67,8 @@ Logged 11:30.
   its money feature is variance (recipes times Square sales, against what left the shelf), on the $59 plan
   only. So the sheet now says the margins hold only if drinks pour to recipe, and ShelfCall shows whether they
   do. The recipe import waits until the boss commits to 10 bars and 2 or more upgrade.
+- cider2 (mail check, 12:32): agreed. It builds from 11-03: (1) cost per bottle and the shelf's dollar value,
+  free, including the free area; (2) dead stock (no drop across the last 3 counts), free, with the count
+  summary saying "count again next week to see what isn't moving"; (3) variance in dollars and cost per
+  drink, $59 plan, later that week; invoice photos later. Each deploy waits on the boss's yes (1 and 2 in
+  about 2 days). The sheet's close changes only when cider2 says a piece is live.

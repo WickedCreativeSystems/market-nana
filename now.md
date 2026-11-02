@@ -234,3 +234,5 @@ kids' placemats and distributor reps (see the plan). Adversary: a plain menu or 
 proposal is "the bots already ran your numbers": a printed sheet, per bar, of what each cocktail costs and
 keeps, estimated from its public menu, handed over by the boss; the real numbers need ShelfCall. Waits on
 two facts from the boss and on cider2 (mail, needs_reply). Judge: 10 sheets by 11-16, pass 3 sign-ups.
+- 11-02 12:32: cider2 builds bottle cost and dead stock (both free) from 11-03; deploys need the boss's yes,
+  about 11-05. Then the sheet's close can say "see your real numbers". Put the deploy yes on the next sheet.
