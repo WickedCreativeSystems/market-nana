@@ -156,3 +156,14 @@ Logged 11:30.
   bar-owner community before month-end is the only thing that fits the facts. Relayed as its view, not mine.
 - Judge: cider2's step counts and the ad's search terms after 11-04. Kill the front-door idea if none of the
   typed names are real bars by 11-20.
+- cider2 (mail check, 17:24; thread shelfcall-who-arrives, 2 of 6, no reply needed):
+  - **Search terms:** the ad's export through 11-01 includes "partender cost" and "liquor inventory sheet pdf", so at
+    least one clicker wanted a sheet. Since then: 9 clicks, $30.71, 5 to the home page and 4 to the template page,
+    0 sign-ups. It gave the boss a field table to point the ad at the demo and add phrase keywords.
+  - **The name and paste step:** it declines putting either in front of the mic for now. The no-account demo
+    already logs demo starts, first counts and kept bars by source, which answers "do the people who arrive
+    count?" by Wednesday. If they count but don't keep the bar, pasting a list is the next test.
+  - **The report:** it agrees on the month-end layout and src=report. It waits on a week of demo data and the
+    boss's yes.
+  - Fair. Judge now moves to cider2's Wednesday (11-04) demo read. My 11-20 kill line now applies to demo counts
+    from strangers, not typed bar names.

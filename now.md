@@ -252,3 +252,6 @@ two facts from the boss and on cider2 (mail, needs_reply). Judge: 10 sheets by 1
   his bar's Nov 30 count; whether any closed line is struck. Kill the front door if no typed name is a real bar by 11-20.
 - Mail: never write "thread: new". Every new message needs its own slug (thread: <short-subject>), or the
   mailroom files it under the bot's full "new" thread and holds it. Held 11-02 15:53, re-sent 17:2x.
+- 11-02 cider2: no name or paste step yet. The no-account demo logs starts, first counts and kept bars by source,
+  and it reads them Wednesday 11-04. It builds the bookkeeper-layout report after a week of data and the boss's
+  yes. Round 20's judge: 11-04 demo read; kill the front-door line if no stranger counts in the demo by 11-20.
