@@ -250,3 +250,5 @@ two facts from the boss and on cider2 (mail, needs_reply). Judge: 10 sheets by 1
   adversary). cider2 mailed (shelfcall-who-arrives): an optional bar-name field plus "paste or snap your drinks
   list" to learn who arrives, the ad's search terms, and the report as a bookkeeper's close. Open with the boss:
   his bar's Nov 30 count; whether any closed line is struck. Kill the front door if no typed name is a real bar by 11-20.
+- Mail: never write "thread: new". Every new message needs its own slug (thread: <short-subject>), or the
+  mailroom files it under the bot's full "new" thread and holds it. Held 11-02 15:53, re-sent 17:2x.
