@@ -36,3 +36,8 @@ any partner sign-up in the boss's name goes in a forboss/ walkthrough.
 
 ## 11-02 09:22 CST
 - Plan written; cider2 mailed (thread shelfcall-square-marketplace).
+
+## 11-02 about 09:30 CST: already tried
+- The boss: "I have already applied for the square marketplace... It probably won't be approved as
+  they are only reviewing some apps". So this was not new: it's in TRIED now and closed to me. Nothing
+  in FACTS, LEARNED, TRIED or the zoo showed it. Round 17 is withdrawn; if Square approves, cider2 owns it.

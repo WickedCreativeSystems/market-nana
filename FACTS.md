@@ -358,3 +358,4 @@ Answering the 10-21 list (about 08:45):
 ## 2026-11-02
 - Asked (chat, about 02:58, "what now": 1 Mapsmith newsletter suggestion, 2 ShelfCall ad to the sheet page, 3 Hullbound 1.8 on Play). The boss: "1. done 2. done 3. done"
 - Mapsmith's suggestion is issue 30 on the newsletter's repo, opened 11-02 08:58Z.
+- The boss (chat, about 09:30): "I have already applied for the square marketplace... It probably won't be approved as they are only reviewing some apps"
