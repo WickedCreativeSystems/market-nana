@@ -217,3 +217,7 @@ agreed 14:40; the Play "vibecoded app" first line is on purpose (cider3 says the
 
 Round 17 (plan/2026-11-02-shelfcall-square-marketplace.md): withdrawn. The boss had already applied
 to Square's App Marketplace and expects no approval (11-02). In TRIED; cider2 told.
+
+Round 18 (plan/2026-11-02-hullbound-board-my-ship.md): Hullbound's Share button drops the player's
+ship; make the share a challenge on the sender's own ship. The adversary: a fix, not a growth plan at
+today's traffic. cider3 asked for its 30-day share count (thread hullbound-share-ship); its call.
