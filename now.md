@@ -241,3 +241,8 @@ two facts from the boss and on cider2 (mail, needs_reply). Judge: 10 sheets by 1
   ?src=report. All free. Then Round 20's sheet and text can say "see your real numbers".
 - Mail note: the mailroom counts every "thread: new" to one bot as one thread (cider2's hit 6 of 6). Give each
   new thread its own name from now on.
+- 11-02 15:30 pm sheet sent. From cider2's log: with the boss's "go all the way through #3", cost per bottle, shelf value
+  and Not moving are live and free, and a "Try it, no account" demo bar is the first button on the home page. Only
+  the report PDF (src=report) is left of my three; it needs the boss's yes when cider2 asks. The Round 20 texts are
+  dropped (the boss: asking people isn't outside the box). market-gate and solver are looking for a carrier that is
+  neither a post, a listing, a pitch nor the boss.
