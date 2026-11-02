@@ -89,3 +89,22 @@ Logged 11:30.
   and the report credit line only helps once a bar is already counting. The real problem, said straight: every
   route to a stranger bar needs someone to carry it, and the carriers are closed or are the boss. Now searching
   for a carrier that is neither (market-gate and solver, in parallel), with the closed list and his time as fixed facts.
+
+## Market-gate, second pass (15:29): "no route exists under these facts"
+- Checked carriers that touch many bars: bookkeepers and accountants (they see every client's month-end inventory),
+  bar staff (quits run 3.5% a month in food service, BLS Aug 2026), inventory auditors (Sculpture, 50,000 venues: a
+  competitor, not a carrier), distributor reps (closed). Each one carries only what a bar already uses, or is
+  reached only by a pitch, post or search. With 0 bars counting, every loop multiplies zero.
+- Voice counting is no longer rare: Crunchtime added voice counts (April 2026), and Square sells MarketMan
+  inventory as a paid add-on. A stranger needs a reason beyond voice: the free shelf value and Not moving list.
+- Killed: the Tales of the Cocktail apprentice program (a pitch, pays off July 2027), bookkeepers as first users,
+  mobile and event bars (mostly bring-your-own bottles, nothing to count), veterans' and club bars, bar brokers and
+  job posts, accounts that follow a counter to the next bar, Square hackathons (none in 2026), chatbot answers.
+- The one survivor is a multiplier, not a route: make the report read like the bookkeeper's month-end entry
+  (ending value by liquor, beer and wine, change since the last count) with "Get this from your other bar clients".
+  It does nothing until one bar counts.
+- Its view on which closed line matters most: one post by the boss in one bar-owner community before month-end.
+  That's its opinion, for the boss to weigh; the line stays closed unless he strikes it.
+- Its point on the seed: the first bar every loop needs could be the boss's own, if its owner agrees. That question
+  has been on the sheets since 10-28.
+- Waiting on the solver before I bring the boss anything.
