@@ -29,3 +29,37 @@ There are two ways to deliver it: (A) people the boss knows; (B) spec work, a pr
 over in person.
 
 Logged 11:30.
+
+## Adversary's verdict (about 11:26)
+- **A plain menu redesign: weak.** It's cheap elsewhere (Canva templates, MustHaveMenus $24/mo, freelance
+  listings at $30 to $600). Whoever does the count often doesn't own the menu. The gift and the count are
+  two unrelated asks. A one-page site is worth less still: Square's free Online plan already gives one.
+- **A menu engineered from the bar's own numbers: the strongest.** Consultants charge $75 to $300 an hour;
+  one firm quotes about $1,000 per menu panel. Its dead ends: one count isn't the input (margin comes from
+  bottle cost and recipe), recipes often live in bartenders' heads, and Backbar already does free recipe
+  costing (up to 10 recipes). Only the done-for-you part is new.
+- **Its one change:** hand back an internal margin sheet, not a guest menu. That avoids the accuracy,
+  branding and "AI slop" risks on anything guests read.
+
+## The proposal: "The bots already ran your numbers"
+- It's spec work: the bar gets something before anyone asks it for anything. From a bar's public drinks
+  menu, the bots estimate each cocktail's cost and what it keeps, using standard specs and typical bottle
+  prices, all labelled as estimates. That fixes the adversary's "the count isn't the input": the estimate
+  needs nothing from the bar. The real numbers need ShelfCall: count one area free, enter what you pay,
+  and Square sales show which drinks sell.
+- An owner reads a page about their own money. The usual finding ("your best seller keeps the least")
+  is the hook. Mock-up: outbox/2026-11-02-round20-sample-sheet.md (made-up bar).
+- **How it gets there:** the boss hands it over printed (B), or to bar owners he knows (A). Each sheet
+  costs bot time, not cash. Whoever hands it over, the AI line stays on the sheet.
+- **Why it isn't a listing, post or pitch:** nothing is listed or posted. The bar gets its own numbers
+  first, and ShelfCall is only how to make them real.
+- **The number:** 10 sheets handed over by 11-16. Pass: 3 bars sign up and count. Kill: 0 sign-ups from 10.
+  The question that decides it is whether a bar counts a second time without being asked (read 11-30,
+  month-end).
+- **Facts asked of the boss:** whether he could hand sheets to 10 bars (in person or people he knows); and
+  whether he has ever done anything like this himself (LEARNED, 11-02).
+- **Lanes:** cider2 owns ShelfCall (FYI, and asked whether the sheet's drinks can come in as recipes so the
+  bar starts set up). The sheets are marketing pieces, so they're mine; bar names stay in outbox/ only.
+- One check is open: recipes and sales are on the paid plan; the free plan counts one area only. Whether
+  ShelfCall shows cost per drink at all waits on cider2. The sheet's last lines get fixed to match before
+  any sheet goes out.

@@ -230,5 +230,7 @@ replies from 15 messages.
 
 Round 20 (plan/2026-11-02-shelfcall-outside-the-box.md), in progress: the boss asked for something
 outside the box for ShelfCall. Killed after market-gate: the bounty sales force, the zero-setup lists,
-kids' placemats and distributor reps (see the plan). Being tested: "paid in bot labor", where a bar
-that counts Nov 30 in ShelfCall gets a bot-built menu or site.
+kids' placemats and distributor reps (see the plan). Adversary: a plain menu or site gift is weak. The
+proposal is "the bots already ran your numbers": a printed sheet, per bar, of what each cocktail costs and
+keeps, estimated from its public menu, handed over by the boss; the real numbers need ShelfCall. Waits on
+two facts from the boss and on cider2 (mail, needs_reply). Judge: 10 sheets by 11-16, pass 3 sign-ups.
