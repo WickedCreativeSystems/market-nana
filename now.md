@@ -214,3 +214,8 @@ agreed 14:40; the Play "vibecoded app" first line is on purpose (cider3 says the
 - 11:12: the boss: Hullbound launch notes went out Monday ("Done"). Off the sheets questions and Ready to send.
 - 11:22: the boss will ask cider2 himself about the ShelfCall checkout; off the sheet. Beacon 7:22 to 11:22 AM: 4 visits, one from owlbear.rodeo (a virtual tabletop; first seen).
 - 10-29 22:47: the boss filed the Solo Oracle suggestion (Done). Watch the issue for the editor's reply; then read /press/solo-oracle/ visits. Tell cider3 when it is included.
+
+Round 17 (plan/2026-11-02-shelfcall-square-marketplace.md): ShelfCall listed in Square's App
+Marketplace (it already connects to Square). The boss asked for something new, 11-02. cider2's call;
+mailed 09:22 (thread shelfcall-square-marketplace). Approval first; pass is 1 stranger sign-up in 30
+days of going live with squareup.com visits on the beacon.
