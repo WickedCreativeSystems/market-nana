@@ -227,3 +227,8 @@ with 93 reactions and comments; the 10-24 launch post reached 32, so the Septemb
 heard ShelfCall went live. The boss messages the bar and restaurant people from that post himself
 (forboss walkthrough). Waits on three facts from him. Pass: 3 free counts in 14 days; kill: under 2
 replies from 15 messages.
+
+Round 20 (plan/2026-11-02-shelfcall-outside-the-box.md), in progress: the boss asked for something
+outside the box for ShelfCall. Killed after market-gate: the bounty sales force, the zero-setup lists,
+kids' placemats and distributor reps (see the plan). Being tested: "paid in bot labor", where a bar
+that counts Nov 30 in ShelfCall gets a bot-built menu or site.
