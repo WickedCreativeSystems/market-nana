@@ -553,3 +553,9 @@ Flatdesk (helpdesk.bananafest-destiny.com: a support inbox in the admin, with or
 - On 10-23 I relayed "Hullbound: Instagram, no TikTok" as his. He said "I think hullbound is an Instagram"; the "no TikTok" was my framing, and his "Yeah" was to me passing it on. It was my call. Relay his words, not my conclusion with his name on it.
 - One YouTube channel (Bananafest Destiny) carries every product. TikTok is split two ways since 10-22.
 - From docent (10-26 evening, its relay, not in FACTS): Instagram (@vibeciders) is cider3's alone from 10-26, Hullbound and Bulkhead. A window spanning 10-26 mixes two policies, so don't read its numbers across that line. Hullbound gets no TikTok: docent's call, by audience. Hullbound's end cards point to cider3's own counted path on the Bulkhead host, not /ig; cider3 reports its first week on 11-01.
+
+## 2026-11-02: what "new" means to the boss
+- He called a Square App Marketplace listing and Teachers Pay Teachers "not new" (he had applied to Square
+  himself). Another store, shelf or listing for an existing app is the old playbook in a new place, not
+  marketing differently (RULES §0). Before offering an idea, check it isn't a listing, post, pitch or
+  directory under another name, and ask whether he has done it himself.
