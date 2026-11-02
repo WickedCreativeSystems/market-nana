@@ -246,3 +246,7 @@ two facts from the boss and on cider2 (mail, needs_reply). Judge: 10 sheets by 1
   the report PDF (src=report) is left of my three; it needs the boss's yes when cider2 asks. The Round 20 texts are
   dropped (the boss: asking people isn't outside the box). market-gate and solver are looking for a carrier that is
   neither a post, a listing, a pitch nor the boss.
+- 11-02 15:53 Round 20 result: no route outside the box under the current rules (market-gate, solver,
+  adversary). cider2 mailed (shelfcall-who-arrives): an optional bar-name field plus "paste or snap your drinks
+  list" to learn who arrives, the ad's search terms, and the report as a bookkeeper's close. Open with the boss:
+  his bar's Nov 30 count; whether any closed line is struck. Kill the front door if no typed name is a real bar by 11-20.

@@ -130,3 +130,29 @@ Logged 11:30.
 - Already partly live: cider2's no-account demo bar (today). The new piece is the visitor's own bar from its menu.
 - Sent to the adversary (menu findability, who the ad clicks are, trust in a wrong estimate, prior art, and
   whether it is just a free tool).
+
+## Adversary on the solver's front door (15:53): build with changes, and the changes remove most of it
+- Finding a bar's menu from its name fails too often. About half of independents have no site (one vendor's
+  unverified figure), drinks live on Instagram (closed to fetching), and ordering menus leave alcohol off. A
+  failed lookup is worse than the plain demo bar.
+- A generic margin shown as "your margarita" tells the manager the tool doesn't know bars. It works only as an
+  editable draft. The bartender-to-manager share is socially backwards. The QR join and the PDF line help only
+  once a bar uses it.
+- 0 sign-ups from 8 clicks fits any true rate from 0 to about 35%. It can't tell a sign-up wall from the wrong
+  people. "Bar inventory" searches are dominated by free spreadsheet templates.
+- Prior art: Blurko (margins from an uploaded price list, free plan), BevSpot's drink price tool, Backbar's
+  calculator, Toast Menu Checker, the Owner.com grader. None starts from the name with no email, but novelty
+  isn't what's missing; visitors are.
+- Cheapest test: an optional "your bar's name" plus "paste or snap your drinks list" on the home page, logged by
+  step, with the ad's search terms read alongside it. The deciding question: when asked, do real bars come back?
+
+## Where Round 20 stands (15:53)
+- The straight answer for the boss: no route outside the box exists under the current rules. Three agents, the same
+  answer. I won't dress one up.
+- Mine, done without his time: mailed cider2 (thread shelfcall-who-arrives) the who-arrives test, the
+  bookkeeper-shaped report and the market note. Its build and its call; deploys wait on the boss's yes.
+- Facts only he has, asked and never pushed: (1) can his bar's Nov 30 count run in ShelfCall (open since
+  10-28)? (2) does he want any closed line struck? Market-gate's opinion is that one post by him in one
+  bar-owner community before month-end is the only thing that fits the facts. Relayed as its view, not mine.
+- Judge: cider2's step counts and the ad's search terms after 11-04. Kill the front-door idea if none of the
+  typed names are real bars by 11-20.
