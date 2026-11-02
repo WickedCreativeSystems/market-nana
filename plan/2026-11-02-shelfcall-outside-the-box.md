@@ -84,3 +84,8 @@ Logged 11:30.
   totals) and puts "Counted by voice in ShelfCall, free for one area" plus the link at the end of the PDF
   and the CSV. The tag is src, not from: shelfcall.com/?src=report; it will count sign-ups from "report" for
   me. All three builds wait on the boss's yes. Pass stays 1 sign-up from a report by 12-15.
+- 15:15, the boss: "Did you ever come up with a different idea? Me asking someone to use it isn't outside the box."
+  My answer: no. The margin sheet was the one creative idea, and it needed his feet. The text is plain asking,
+  and the report credit line only helps once a bar is already counting. The real problem, said straight: every
+  route to a stranger bar needs someone to carry it, and the carriers are closed or are the boss. Now searching
+  for a carrier that is neither (market-gate and solver, in parallel), with the closed list and his time as fixed facts.
