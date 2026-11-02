@@ -44,3 +44,6 @@ Logged 09:24.
 
 ## 11-01 13:22 CST: Mapsmith too
 - The boss asked whether both plugins were suggested; only Solo Oracle was. Walkthrough for Mapsmith written (forboss/2026-11-01-mapsmith-newsletter.md), same route; cider3 told (FYI, may object). Leading number for Mapsmith: /mapsmith/ visits (cider3's new web page, at its ask; /press/mapsmith/ counted alongside) the week before and after an issue that names it. Judged with Solo Oracle, 11-19.
+
+## 11-02 CST: Mapsmith suggested
+- The boss: "done" (about 02:58). It is issue 30, opened 08:58Z. Watched with 28; judged together 11-19.

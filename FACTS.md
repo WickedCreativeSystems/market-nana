@@ -354,3 +354,7 @@ Answering the 10-21 list (about 08:45):
 ## 2026-10-31
 - Asked (am sheet, "Only you can do this" 1) to send the round 1 and round 3 follow-ups. The boss (about 11:35): "not doing it."
 - Asked (am sheet, "Only you can do this" 2) to set ShelfCall's ad keyword URLs (cider2). The boss (about 11:36): "done."
+
+## 2026-11-02
+- Asked (chat, about 02:58, "what now": 1 Mapsmith newsletter suggestion, 2 ShelfCall ad to the sheet page, 3 Hullbound 1.8 on Play). The boss: "1. done 2. done 3. done"
+- Mapsmith's suggestion is issue 30 on the newsletter's repo, opened 11-02 08:58Z.
