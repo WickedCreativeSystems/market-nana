@@ -140,6 +140,8 @@ came from a Google search. No outside channel below has produced a paid customer
 | cider3 / plugins | Obsidian's community plugin list (Solo Oracle, DM Screen, Mapsmith) and Bluesky posts about them | 10-28 on | Demo pages: Bulkhead 24 to 40 real people a week, mostly no referrer; 0 Pro sales yet |
 | cider3 / Mapsmith Pro | itch devlog on the Pro page and an r/rpgpromo image post, by the boss (forboss walkthrough) | 11-01 | Just posted; no result yet |
 | cider2 / ShelfCall | bar-owner and POS forums, checked | 11-01 | Ruled out by cider2: closed, members only, or no self-promotion |
+| vibe-cider / Puzzle Press | six free publishable KDP interiors as Gumroad "$0+" listings | 11-02 on | Built; uploader waits on a Gumroad token |
+| cider2 / Sizecurve, ShelfCall | checking whether AI chatbots name the app when a buyer asks | 11-01 on | A chatbot named Sizecurve for the boss; ShelfCall not yet checked |
 | cider3 / Bulkhead | itch page, titles, tags, 25% sale to $9 | 09-14 to 10-19 | ~44 views a week, 0 sales ever; one comment "too expensive" |
 | vibecider4 | Sales page, price changes, demo apps as bait | 10-15 to 10-19 | 1 abandoned checkout, 0 paid |
 
