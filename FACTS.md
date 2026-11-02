@@ -361,3 +361,4 @@ Answering the 10-21 list (about 08:45):
 - The boss (chat, about 09:30): "I have already applied for the square marketplace... It probably won't be approved as they are only reviewing some apps"
 - The boss (chat, after the Square note): "None of this is new. I don't want to do tpt" (Teachers Pay Teachers, for Trace Press: out).
 - The boss, on Round 19 (back to the 09-20 LinkedIn beta crowd): "This isn't creative.... Not what I had in mind. I've been ignored there ever since. I'll think about it and let y'all know if I do it. I want you to think outside the box on this."
+- The boss, on ShelfCall having no bottle costs or dead-stock view (chat, about 11:40): "Dead stock is so easy to determine. That's silly that it doesn't just do that. You're in charge of marketing. Go ahead and give vc2 your opinions on the subject"
