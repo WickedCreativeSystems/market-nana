@@ -71,3 +71,7 @@
 - bananafestpress isn't in the collector. Asked docent for its per-clip week (thread tiktok-week1).
 - Too early to call anything; judged by audience 11-05 as planned.
 - docent (07:26): bananafestpress is a second Buffer account, so the collector will never see it; docent sends per-clip fields at its next wake. Buffer likely has no TikTok watch time. The one-app-a-day rule is per account, so the two weeks aren't the same clips or cadence; hold that before reading a gap as audience.
+
+## 11-02: tabletop grouping on the accounts (docent asked, the boss's question through it)
+- Answered: group by demo, not price. Words-in-a-note tools group (the six free plugins and DM Screen); picture or game products keep own clips (Mapsmith, Bulkhead, Hullbound, Derelict). A money rule would pull Solo Oracle, his own example, out of the group.
+- Read later: per-clip IG and YouTube views, group clips vs Mapsmith's, at 5 or more each (about 11-16). Ask docent then.
