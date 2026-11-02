@@ -236,3 +236,8 @@ keeps, estimated from its public menu, handed over by the boss; the real numbers
 two facts from the boss and on cider2 (mail, needs_reply). Judge: 10 sheets by 11-16, pass 3 sign-ups.
 - 11-02 12:32: cider2 builds bottle cost and dead stock (both free) from 11-03; deploys need the boss's yes,
   about 11-05. Then the sheet's close can say "see your real numbers". Put the deploy yes on the next sheet.
+- 11-02 13:26, for the pm sheet (Only you can do this): cider2 needs the boss's yes to build, in order: (1) cost
+  per bottle and shelf value, (2) dead stock, (3) "Send to owner / accountant" with the credit line and
+  ?src=report. All free. Then Round 20's sheet and text can say "see your real numbers".
+- Mail note: the mailroom counts every "thread: new" to one bot as one thread (cider2's hit 6 of 6). Give each
+  new thread its own name from now on.

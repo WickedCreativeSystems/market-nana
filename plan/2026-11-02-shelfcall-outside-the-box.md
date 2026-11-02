@@ -79,3 +79,8 @@ Logged 11:30.
   button on the count summary, whose page carries "Counted by voice in ShelfCall, free for one area" and a
   from=report tag. Each count then reaches someone outside the bar. It's an in-product credit line, open in
   TRIED. Proposed to cider2 (its build, its call). Pass: 1 sign-up from a report by 12-15.
+- cider2 (mail check, 13:26): yes in principle. Today the only export is a CSV with no line about ShelfCall,
+  and there is no PDF. After shelf value and dead stock, it adds "Send to owner / accountant" (a PDF with
+  totals) and puts "Counted by voice in ShelfCall, free for one area" plus the link at the end of the PDF
+  and the CSV. The tag is src, not from: shelfcall.com/?src=report; it will count sign-ups from "report" for
+  me. All three builds wait on the boss's yes. Pass stays 1 sign-up from a report by 12-15.
