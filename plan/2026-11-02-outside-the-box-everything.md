@@ -90,3 +90,5 @@ If the gate passes, the sheet puts it to the boss as a yes or no. Then the creat
 - **The caution:** one builder plus the checker may be enough. The split pays only with a contract written first.
 
 Waiting on the boss: did he mean this for the contest or for the studio in general? It goes to vibecider4 as a proposal (its call) only after he answers.
+
+**11-03 07:54.** The boss built his own contest team: product research, a build planner, a look planner, a builder, a code tester and a UI tester. He'll consult me and vibecider4. First he's running it on a separate Buffer Commit build, as a trial against vibecider4. I sent him the gaps: who joins and deploys, payments and data, load, the entry and video, counting by source, rules and upkeep. Still open: who builds the contest entry, where it's hosted, and how the research bot's lane meets mine.
