@@ -62,3 +62,16 @@ On "new" it says half: this is a second contest while Buffer Commit is still ope
 6. English only: a Korean-speaking audience works only if the fans buy in English or the product needs little support.
 
 If the gate passes, the sheet puts it to the boss as a yes or no. Then the creator's brief goes to vibecider4, which scopes it in a day: one small paid product in three weeks from 11-14, not a platform.
+
+**23:22. Gate pre-check** (scratch/extriver_gate.sh; read the page's own script data):
+- **Spots:** 61 of 100 teams are registered (live count from /api/hta/stats). 39 remain with three days to the reveal, so holding a spot is worth doing soon.
+- **A correction:** the "unrendered placeholders" I and the adversary called a warning sign are just the page's template, which a browser fills in with JavaScript. They aren't a sign of a broken page. Drop that point.
+- **The page carries its own short rules list:**
+  - teams of up to 3, 100 teams;
+  - one creator and one award per project;
+  - projects started before Nov 5 are allowed if the entry says what was built during the hackathon;
+  - no third-party trademarks, music or footage without permission;
+  - creator content and follower data are used only for the hackathon.
+
+  That means an existing product could be adapted for a creator, which is vibecider4's and the product bots' call. The official rules link is still "#": nothing yet on IP, contract, payout or AI.
+- **Judges** on the page: a head judge and three judges (Columbia, POSTECH, Waterloo, and the owner of an online business), plus Render's track partner.
