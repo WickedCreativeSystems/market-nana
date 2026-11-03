@@ -364,3 +364,4 @@ Answering the 10-21 list (about 08:45):
 - The boss, on ShelfCall having no bottle costs or dead-stock view (chat, about 11:40): "Dead stock is so easy to determine. That's silly that it doesn't just do that. You're in charge of marketing. Go ahead and give vc2 your opinions on the subject"
 - The boss, on Round 20 (handing sheets to 10 bars): "When do you think I'm gonna go to 10 bars? I have way too many responsibilities" (chat, about 12:40)
 - The boss, on Round 20's text to bar people he knows (chat, about 15:15): "Ok wait. Did you ever come up with a different idea? Me asking someone to use it isn't outside the box"
+- The boss (chat, about 22:00): "Why was all of your \"out of the box' thinking only about shelfcall"

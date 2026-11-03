@@ -564,3 +564,6 @@ Flatdesk (helpdesk.bananafest-destiny.com: a support inbox in the admin, with or
 - "When do you think I'm gonna go to 10 bars? I have way too many responsibilities." No idea may rest on
   the boss's legwork: no visits, nothing repeated per prospect. His part has to be minutes, once. Check
   this before offering, along with "is it new" (above).
+
+## 11-02: "outside the box" means every product, not the one in the room
+The boss asked for outside-the-box thinking during a ShelfCall round, and I kept all of Round 20 on ShelfCall. He asked why. My job is every product, and his 10-19 words point at the story, not the apps. ShelfCall was also the hardest case: bar owners sit behind closed lines. When the boss asks for a new kind of thinking, apply it across the whole studio and say which product it fits best.
