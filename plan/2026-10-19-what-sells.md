@@ -711,3 +711,9 @@ Community threads since 2025 (about 10,000 views), every ask is already met by a
 app rated 4.9 to 5.0. Most VAT threads are about Shopify's own invoice, which no app can replace,
 and there's no documented way to attach a PDF to Shopify's confirmation email. That's both
 crowding-check examples closed. The brief thread is at 6 of 6.
+
+**11-03 16:29, the boss again:** "14 days isn't long enough for a Shopify app sign up".
+My pm sheet put "1 outside install" back into Flatdesk's day-14 bar, which was
+wrong; it came out on 10-19. Day 14 (11-17) reads only search views and "Add app"
+clicks, if the tag is on. Installs are counted at 11-30 and again at day 60
+(01-02), proposed to cider2, whose bar it is.

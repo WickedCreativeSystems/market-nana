@@ -369,3 +369,4 @@ Answering the 10-21 list (about 08:45):
 - The boss (chat, about 07:42): "I registered" (Hack the Audience).
 - The boss (chat, about 07:49): "I made a team to run the contest. I made a bit to research the product. A bot to plan the build. A bot to plan the look. A builder. A code tester and a UI tester"
 - The boss (chat, about 07:54): "I will be consulting with you and vc4. In the meantime I'm going to start it up. I am having them do a separate buffer build to see how they hold up against vc4"
+- The boss (answer to the 11-03 pm sheet, about 16:29): "14 days isn't long enough for a Shopify app sign up" (on the Flatdesk bar; filed under Q1, but it answers priority 1).
