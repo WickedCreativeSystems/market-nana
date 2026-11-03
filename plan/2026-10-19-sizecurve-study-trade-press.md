@@ -172,3 +172,5 @@ anyone who hasn't replied, and they're the last message to each.
 
 
 **10-31, 11:36 CDT.** The nudges will not go. The boss, asked on the 10-31 am sheet: "not doing it." Judged 11-03 on the first emails alone.
+
+**11-02, 19:24 CST.** Pre-read for tomorrow: three web searches for the study's name, its page and its figures found no published cite or link; only Sizecurve's own listings turned up. Unless the boss has a reply in his inbox, it's a fail on 11-03. The verdict goes on the 11-03 am sheet.
