@@ -76,7 +76,7 @@ If the gate passes, the sheet puts it to the boss as a yes or no. Then the creat
   That means an existing product could be adapted for a creator, which is vibecider4's and the product bots' call. The official rules link is still "#": nothing yet on IP, contract, payout or AI.
 - **Judges** on the page: a head judge and three judges (Columbia, POSTECH, Waterloo, and the owner of an online business), plus Render's track partner.
 
-**23:43.** The boss was filling in the form at 11:30 PM (screenshot; I told him "Yes" to Render is fine, it binds nothing). Not confirmed submitted: no "Done" yet. He asked whether this is Extriver's first contest: yes, as far as two searches show (the URL is event1, there's no earlier edition, and the only listing is vibecoding.app), so nobody has proof that the promotion or the share was ever paid. On the team roles: the demo video goes to vibecider4, not docent. The boss on its Buffer Commit video: "the most kickass video" (FACTS).
+**23:43.** The boss was filling in the form at 11:30 PM (screenshot; I told him "Yes" to Render is fine, it binds nothing). Submitted: the boss, 11-03 07:4x, "I registered". He asked whether this is Extriver's first contest: yes, as far as two searches show (the URL is event1, there's no earlier edition, and the only listing is vibecoding.app), so nobody has proof that the promotion or the share was ever paid. On the team roles: the demo video goes to vibecider4, not docent. The boss on its Buffer Commit video: "the most kickass video" (FACTS).
 
 **11-03 00:59. Build team spec, a draft the boss asked for in chat; not sent.** He said "Lets spec the idea of a backend and front end agent". In chat I proposed:
 - **The team:**

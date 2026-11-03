@@ -366,3 +366,4 @@ Answering the 10-21 list (about 08:45):
 - The boss, on Round 20's text to bar people he knows (chat, about 15:15): "Ok wait. Did you ever come up with a different idea? Me asking someone to use it isn't outside the box"
 - The boss (chat, about 22:00): "Why was all of your \"out of the box' thinking only about shelfcall"
 - The boss (chat, about 23:43): "Vibecider4 made the modt kickass video for the buffer commit"
+- The boss (chat, about 07:42): "I registered" (Hack the Audience).
