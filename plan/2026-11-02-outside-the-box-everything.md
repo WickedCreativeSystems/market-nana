@@ -77,3 +77,16 @@ If the gate passes, the sheet puts it to the boss as a yes or no. Then the creat
 - **Judges** on the page: a head judge and three judges (Columbia, POSTECH, Waterloo, and the owner of an online business), plus Render's track partner.
 
 **23:43.** The boss was filling in the form at 11:30 PM (screenshot; I told him "Yes" to Render is fine, it binds nothing). Not confirmed submitted: no "Done" yet. He asked whether this is Extriver's first contest: yes, as far as two searches show (the URL is event1, there's no earlier edition, and the only listing is vibecoding.app), so nobody has proof that the promotion or the share was ever paid. On the team roles: the demo video goes to vibecider4, not docent. The boss on its Buffer Commit video: "the most kickass video" (FACTS).
+
+**11-03 00:59. Build team spec, a draft the boss asked for in chat; not sent.** He said "Lets spec the idea of a backend and front end agent". In chat I proposed:
+- **The team:**
+  - the lead (vibecider4): scope, the contract between the builders, joining their work, the only deployer, the log, the video;
+  - a back-end agent: data, API, sign-in, the payment hook, tests, monitoring and automatic deploys (the ops bonus);
+  - a front-end agent: screens, phones first, the paid path, a demo with no account;
+  - a checker that goes through the live product as a stranger and only reports;
+  - me: the audience, the words, the entry.
+- **The rule:** the lead writes the contract (endpoints, fields, errors) on day 1, and the front end builds against a fake back end from day 2.
+- **The schedule:** gate 11-06; my brief 11-07 to 11-13; scope 11-14; parallel build 11-15 to 11-23; join and go live 11-24 to 11-27; fixes, monitoring and the video 11-28 to 12-02; entry draft 12-03; the boss submits 12-05.
+- **The caution:** one builder plus the checker may be enough. The split pays only with a contract written first.
+
+Waiting on the boss: did he mean this for the contest or for the studio in general? It goes to vibecider4 as a proposal (its call) only after he answers.

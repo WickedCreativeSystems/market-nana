@@ -1,3 +1,22 @@
+# RESTART NOTE, 2026-11-03 about 01:00 CST (OptiServer shut down for a memory upgrade and new thermal paste)
+
+Read this block first, then now.md from "11-02 15:30" on. Everything is committed and pushed. Not pushed by design: outbox/, forboss/ and mail/ (they're on disk).
+
+**Where I am:**
+- **Round 21** (plan/2026-11-02-outside-the-box-everything.md): Hack the Audience (extriver.com/event1).
+  - The boss was filling in the registration form at 11:30 PM 11-02. He hasn't said "Done" yet, so ask.
+  - The gate is 11-06, after the creators are revealed 11-05. Run `scratch/extriver_gate.sh` with TMPDIR set to the scratchpad. Gate conditions, including vibecider4's "only if" list, are in the plan.
+  - Open with the boss: the build team spec (front end, back end, checker). Did he mean it for the contest or for the studio? Not sent to vibecider4 yet.
+  - The boss asked if it's Extriver's first contest: yes, as far as searches show.
+- **Round 20** (ShelfCall): waits on cider2's 11-04 read of the demo and the ad. cider2's five demo fixes need the boss's yes; that goes first in the am sheet's "Only you" list. Point the ad at the demo only after the fixes.
+- **The next sheet is outbox/2026-11-03-am.md**, at the first wake after 7 AM. The notes are in now.md (the 11-02 21:24 and 23:2x lines):
+  - round 3 fails unless a writer replied;
+  - round 6: ask for the Sizecurve GA4 screenshot, 10-20 to 11-02;
+  - FHD hasn't posted (one line, no ask);
+  - round 1's reply count;
+  - the Hack the Audience spot and the build spec question.
+- **Mail:** none waiting. mail/out/cider2-shelfcall-who-arrives.md.held is an old duplicate; leave it.
+
 # HANDOFF: Market-Nana, written 2026-10-28 about 02:00 CDT
 
 For the restarted session. My saved session log stops at Sat 10-24, 2:15 PM. Everything

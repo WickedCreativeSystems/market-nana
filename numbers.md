@@ -1,7 +1,7 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 11/2/2026, 11:05:34 PM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 11/3/2026, 12:05:14 AM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
-- bulkhead.bananafest-destiny.com: 83 people, 176 page views, 753 bot views left out
+- bulkhead.bananafest-destiny.com: 84 people, 177 page views, 753 bot views left out
 - shelfcall.com: 15 people, 30 page views, 24 bot views left out
 - puzzlepress.bananafest-destiny.com: 6 people, 16 page views, 24 bot views left out
 - sizecurve.bananafest-destiny.com: 4 people, 5 page views, 200 bot views left out
@@ -10,14 +10,14 @@
 - vibecider.bananafest-destiny.com: 0 people, 0 page views, 7 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- tracepress.bananafest-destiny.com: 38355 requests, 4322 visits
-- bulkhead.bananafest-destiny.com: 16368 requests, 3082 visits
-- puzzlepress.bananafest-destiny.com: 8212 requests, 5393 visits
-- vibecider.bananafest-destiny.com: 4712 requests, 639 visits
-- shelfcall.com: 3821 requests, 1094 visits
+- tracepress.bananafest-destiny.com: 38362 requests, 4319 visits
+- bulkhead.bananafest-destiny.com: 16376 requests, 3083 visits
+- puzzlepress.bananafest-destiny.com: 8182 requests, 5371 visits
+- vibecider.bananafest-destiny.com: 4712 requests, 640 visits
+- shelfcall.com: 3823 requests, 1096 visits
 - helpdesk.bananafest-destiny.com: 3623 requests, 265 visits
-- sizecurve.bananafest-destiny.com: 1968 requests, 905 visits
-- screenshelf.bananafest-destiny.com: 1241 requests, 58 visits
+- sizecurve.bananafest-destiny.com: 1972 requests, 910 visits
+- screenshelf.bananafest-destiny.com: 1240 requests, 57 visits
 
 ## Google search (Search Console, 2-3 days behind)
 - bulkhead.bananafest-destiny.com: 1 clicks, 5 shown
@@ -45,8 +45,8 @@
 
 ## Social posts, last 7 days (as each network last reported)
 - tiktok sizecurve: 6 posts, 642 views, 3 likes, 0 comments, 0 shares
+- instagram vibeciders: 9 posts, 598 views, 1 likes, 0 comments, 0 shares
 - youtube Bananafest Destiny: 31 posts, 451 views, 2 likes, 0 comments, 0 shares
-- instagram vibeciders: 9 posts, 439 views, 0 likes, 0 comments, 0 shares
 - bluesky bananafest-destiny.bsky.social: 14 posts, no views, 8 likes, 1 comments, 2 shares
 
 ## dev.to (running totals)
