@@ -295,3 +295,5 @@ numbers, shapes) are ready with graphics, and they go one at a time, only after 
   3" x 5" sight-word cards, a name page per child, all on
   /kindergarten-worksheets). The number and shape sets are not new; the boss
   already offered them on 10-20 (vibe-cider's correction).
+
+**11-02, 21:24 CST. Pre-read for the 11-03 nudge.** FHD hasn't posted it: a search of freehomeschooldeals.com for Christmas tracing finds only other makers' sets (Living Life & Learning and others), and the beacon since 10-20 shows no visit from FHD. FHD's feed now refuses a plain fetch (403), so this is a search, not the feed. The nudge isn't going on the sheet as an ask. The boss declined the round 1 and round 3 follow-ups on 10-31 ("not doing it"), and this is the same kind of message. That's my reading, not his words about FHD, so the sheet says it in one line and he can overrule it. Still judged 11-24 on the 10-20 email alone. The kindergarten page the nudge would name is live (/kindergarten-worksheets: names, sight words, CVC).

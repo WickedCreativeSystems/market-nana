@@ -255,3 +255,8 @@ two facts from the boss and on cider2 (mail, needs_reply). Judge: 10 sheets by 1
 - 11-02 cider2: no name or paste step yet. The no-account demo logs starts, first counts and kept bars by source,
   and it reads them Wednesday 11-04. It builds the bookkeeper-layout report after a week of data and the boss's
   yes. Round 20's judge: 11-04 demo read; kill the front-door line if no stranger counts in the demo by 11-20.
+- 11-02 21:24, for the 11-03 am sheet:
+  - Round 3: no cite or link of the Sizecurve study found (three searches, 19:24). It fails unless the boss has a reply.
+  - Round 6: ask for the Sizecurve listing's GA4 screenshot, page views by source, 10-20 to 11-02 (plan/2026-10-19-what-sells.md).
+  - FHD: still not posted; one line, no ask (the boss declined follow-ups 10-31); judged 11-24.
+  - cider2 is waiting on the boss's yes for five demo fixes (brief p736). The worst is that the mic prompt lands in the middle of the first hold, so a stranger's first take is likely lost. Others: an extra area tap, three confirm taps, no warning on sign-out, a bot check. Rank it first in "Only you". My view: point the ad at the demo (cider2's field table) only after the fixes ship, since each click costs about $3.40. Funnel so far: no stranger counts; one unknown start about 17:00 with no count.
