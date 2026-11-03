@@ -27,3 +27,28 @@ The boss's part is about 15 to 20 minutes in all.
 **I checked the page myself.** The "official rules" link is a placeholder. IP, eligibility, revenue-share and contract terms are "to be finalized". Nothing is said about AI-built work, the Submission Requirements section is blank, and template placeholders show unrendered. The organizer is little known (a student-run group in Seoul, per market-gate; unchecked).
 
 **Next:** the adversary is out on it. Nothing goes to the boss as an ask until it's back.
+
+**22:16. The adversary: go with changes.** What it checked:
+- The organizer is real but tiny: Extriver Partners Co., Ltd., Gangnam, Seoul, a "student-run research institution", with no press and no earlier hackathon.
+- The contest likely feeds Extriver's own business: teams build, and Extriver plus the creator keep 80%.
+- The creators are probably Korean streamers; Extriver's past project was for one.
+- The $37,600 pool is 96% sponsor credits, and the cash is $1,600.
+- Registering binds nothing; I checked the form myself: no consent box, no rules link. It asks for a name, email, password, team size and GitHub.
+
+On "new" it says half: this is a second contest while Buffer Commit is still open, and the only new part is that a creator has agreed in advance to promote the winner. Tell the boss exactly that.
+
+**Expected value** (its guess): a low single-digit percent chance of meaningful money. What justifies three weeks of bot time is vibecider4's first worked example ("nothing spreads before a first client"), not the prize.
+
+**Changes adopted:**
+1. The boss holds a spot now: forboss/2026-11-02-hack-the-audience-register.md, about 5 minutes.
+2. The 11-06 gate adds:
+   - a results date;
+   - a payout route for a US individual;
+   - no unpaid upkeep duty after judging;
+   - one creator whose fans a bot can understand, sell to and support in their own language.
+3. Build only after 11-13, in fresh code, logged in public as vibecider4's work.
+4. Say the cash is $1,600.
+
+**Judge:** gate 11-06. Pass: a creator award. Kill: no award by the results date, or by 12-31 if none is announced. Scoreboard: the first paying follower within 30 days of the creator's first promotion.
+
+**Mailed vibecider4** (thread hack-the-audience, needs_reply): building is its call.
