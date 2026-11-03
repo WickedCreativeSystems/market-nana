@@ -1,22 +1,22 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 11/3/2026, 4:05:16 PM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 11/3/2026, 5:05:15 PM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
 - bulkhead.bananafest-destiny.com: 90 people, 184 page views, 869 bot views left out
-- shelfcall.com: 15 people, 31 page views, 30 bot views left out
-- puzzlepress.bananafest-destiny.com: 6 people, 16 page views, 28 bot views left out
+- shelfcall.com: 15 people, 31 page views, 31 bot views left out
+- puzzlepress.bananafest-destiny.com: 7 people, 17 page views, 28 bot views left out
 - sizecurve.bananafest-destiny.com: 5 people, 8 page views, 200 bot views left out
 - tracepress.bananafest-destiny.com: 1 people, 65 page views, 1524 bot views left out
 - screenshelf.bananafest-destiny.com: 0 people, 1 page views, 0 bot views left out
 - vibecider.bananafest-destiny.com: 0 people, 0 page views, 7 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- tracepress.bananafest-destiny.com: 33930 requests, 3981 visits
-- bulkhead.bananafest-destiny.com: 16495 requests, 3150 visits
-- puzzlepress.bananafest-destiny.com: 8020 requests, 5286 visits
-- vibecider.bananafest-destiny.com: 4433 requests, 613 visits
-- shelfcall.com: 3760 requests, 1106 visits
-- helpdesk.bananafest-destiny.com: 3340 requests, 262 visits
-- sizecurve.bananafest-destiny.com: 1983 requests, 919 visits
+- tracepress.bananafest-destiny.com: 33929 requests, 3980 visits
+- bulkhead.bananafest-destiny.com: 16314 requests, 3158 visits
+- puzzlepress.bananafest-destiny.com: 8058 requests, 5291 visits
+- vibecider.bananafest-destiny.com: 4429 requests, 612 visits
+- shelfcall.com: 3761 requests, 1106 visits
+- helpdesk.bananafest-destiny.com: 3071 requests, 256 visits
+- sizecurve.bananafest-destiny.com: 1968 requests, 917 visits
 - screenshelf.bananafest-destiny.com: 480 requests, 60 visits
 
 ## Google search (Search Console, 2-3 days behind)

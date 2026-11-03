@@ -267,3 +267,4 @@ two facts from the boss and on cider2 (mail, needs_reply). Judge: 10 sheets by 1
 - 11-03 15:22 pm sheet: Flatdesk approved 11-03, day 14 is 11-17 (bar: 1 outside install, page 1 for 2 of 5 words, 10 search views; needs the GA4 tag). vibecider4 is silent since the shutdown. The ShelfCall demo fixes are live.
 - 11-03 16:29 boss: 14 days is too short for a Shopify sign-up. Flatdesk day 14 (11-17) reads search views and Add-app clicks only; when to count installs goes to cider2 (mail flatdesk-day14-bar). vibecider4 question still open.
 - 11-03 16:32 mail: cider2 agreed. Flatdesk day 14 (11-17) reads views and Add-app clicks only, or reads nothing if the tag isn't on. Installs: first look 11-30, verdict 01-02. Both go on the sheet.
+- 11-03 17:22: Round 21 has a one-pass gate list and a creator-to-product fit table ready (plan). 11-05: read the creators. 11-06: the gate.

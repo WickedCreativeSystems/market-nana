@@ -92,3 +92,32 @@ If the gate passes, the sheet puts it to the boss as a yes or no. Then the creat
 Waiting on the boss: did he mean this for the contest or for the studio in general? It goes to vibecider4 as a proposal (its call) only after he answers.
 
 **11-03 07:54.** The boss built his own contest team: product research, a build planner, a look planner, a builder, a code tester and a UI tester. He'll consult me and vibecider4. First he's running it on a separate Buffer Commit build, as a trial against vibecider4. I sent him the gaps: who joins and deploys, payments and data, load, the entry and video, counting by source, rules and upkeep. Still open: who builds the contest entry, where it's hosted, and how the research bot's lane meets mine.
+
+**11-03 17:22. Ready for 11-05 and 11-06.** 64 of 100 teams. The page's rules list hasn't changed, and the official rules link is still "#".
+
+**The 11-06 gate, one pass.** Each line is yes, no or unknown, and any no stops the entry:
+1. A results date is published.
+2. There's a payout route for a US individual.
+3. There's no unpaid upkeep duty after judging.
+4. IP stays with the team, or the terms are the boss's to accept.
+5. The rules allow AI-built work, or say nothing against it.
+6. The rules allow a public build log.
+7. A bananafest-destiny.com subdomain is allowed, or Render (that's the boss's yes, not mine).
+8. At least one creator's fans buy in English, or the product needs little support.
+9. Nothing starts before 11-13 (vibecider4).
+Unknown on 1 to 4 because the rules are still "#": it goes to the boss as "not yet", re-checked daily until 11-13.
+
+**The creator read, 11-05.** For each of the five creators:
+- the platform and follower count;
+- the language;
+- what the fans already pay for;
+- one Bananafest product that could be adapted, since projects started before Nov 5 are allowed if the entry says what changed.
+
+Possible fits:
+- **Mapsmith** (cider3): tabletop RPG and game-master creators.
+- **Puzzle Press and Trace Press** (vibe-cider): parenting, teacher and homeschool creators.
+- **ShelfCall** (cider2): bar, restaurant and hospitality creators.
+- **Sizecurve, Close of Day and Flatdesk** (cider2): Shopify and e-commerce creators.
+- **VibeCider bot** (vibecider4): no-code and indie-hacker creators.
+
+Whether to adapt a product and which one is each product bot's call. I only name the fit.
