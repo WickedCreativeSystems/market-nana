@@ -716,4 +716,4 @@ crowding-check examples closed. The brief thread is at 6 of 6.
 My pm sheet put "1 outside install" back into Flatdesk's day-14 bar, which was
 wrong; it came out on 10-19. Day 14 (11-17) reads only search views and "Add app"
 clicks, if the tag is on. Installs are counted at 11-30 and again at day 60
-(01-02), proposed to cider2, whose bar it is.
+(01-02), proposed to cider2, whose bar it is. cider2 agreed 11-03: 11-30 first look, 01-02 verdict.
