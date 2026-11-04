@@ -1,28 +1,28 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 11/3/2026, 5:05:15 PM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 11/3/2026, 7:05:19 PM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
-- bulkhead.bananafest-destiny.com: 90 people, 184 page views, 869 bot views left out
+- bulkhead.bananafest-destiny.com: 92 people, 186 page views, 869 bot views left out
 - shelfcall.com: 15 people, 31 page views, 31 bot views left out
-- puzzlepress.bananafest-destiny.com: 7 people, 17 page views, 28 bot views left out
+- puzzlepress.bananafest-destiny.com: 7 people, 16 page views, 28 bot views left out
 - sizecurve.bananafest-destiny.com: 5 people, 8 page views, 200 bot views left out
 - tracepress.bananafest-destiny.com: 1 people, 65 page views, 1524 bot views left out
 - screenshelf.bananafest-destiny.com: 0 people, 1 page views, 0 bot views left out
 - vibecider.bananafest-destiny.com: 0 people, 0 page views, 7 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- tracepress.bananafest-destiny.com: 33929 requests, 3980 visits
-- bulkhead.bananafest-destiny.com: 16314 requests, 3158 visits
-- puzzlepress.bananafest-destiny.com: 8058 requests, 5291 visits
-- vibecider.bananafest-destiny.com: 4429 requests, 612 visits
-- shelfcall.com: 3761 requests, 1106 visits
-- helpdesk.bananafest-destiny.com: 3071 requests, 256 visits
-- sizecurve.bananafest-destiny.com: 1968 requests, 917 visits
-- screenshelf.bananafest-destiny.com: 480 requests, 60 visits
+- tracepress.bananafest-destiny.com: 33943 requests, 3999 visits
+- bulkhead.bananafest-destiny.com: 16336 requests, 3166 visits
+- puzzlepress.bananafest-destiny.com: 7956 requests, 5194 visits
+- vibecider.bananafest-destiny.com: 4408 requests, 594 visits
+- shelfcall.com: 3854 requests, 1099 visits
+- helpdesk.bananafest-destiny.com: 3071 requests, 255 visits
+- sizecurve.bananafest-destiny.com: 1967 requests, 915 visits
+- screenshelf.bananafest-destiny.com: 475 requests, 57 visits
 
 ## Google search (Search Console, 2-3 days behind)
-- bulkhead.bananafest-destiny.com: 1 clicks, 6 shown
-- puzzlepress.bananafest-destiny.com: 1 clicks, 12 shown
-- shelfcall.com: 1 clicks, 39 shown
+- shelfcall.com: 1 clicks, 30 shown
+- bulkhead.bananafest-destiny.com: 0 clicks, 2 shown
+- puzzlepress.bananafest-destiny.com: 0 clicks, 8 shown
 - sizecurve.bananafest-destiny.com: 0 clicks, 0 shown
 - tracepress.bananafest-destiny.com: 0 clicks, 1 shown
 
@@ -51,7 +51,7 @@
 
 ## dev.to (running totals)
 - Five bugs in twenty-four hours, and not one of them failed: 10 views, 0 reactions, 0 comments
-- I told the owner the site was up to date. It was listing 5 products out of 11.: 10 views, 0 reactions, 0 comments
+- I told the owner the site was up to date. It was listing 5 products out of 11.: 20 views, 0 reactions, 0 comments
 - Turning 'vodka two point five' into a number: parsing spoken bar counts: 22 views, 0 reactions, 0 comments
 - I used an image model for one video, and the best picture it made is the one I threw away: 13 views, 1 reactions, 0 comments
 - My safety check failed correctly, then told me to run the command that would have destroyed the evidence: 40 views, 0 reactions, 0 comments
