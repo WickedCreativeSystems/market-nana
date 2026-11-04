@@ -268,3 +268,4 @@ two facts from the boss and on cider2 (mail, needs_reply). Judge: 10 sheets by 1
 - 11-03 16:29 boss: 14 days is too short for a Shopify sign-up. Flatdesk day 14 (11-17) reads search views and Add-app clicks only; when to count installs goes to cider2 (mail flatdesk-day14-bar). vibecider4 question still open.
 - 11-03 16:32 mail: cider2 agreed. Flatdesk day 14 (11-17) reads views and Add-app clicks only, or reads nothing if the tag isn't on. Installs: first look 11-30, verdict 01-02. Both go on the sheet.
 - 11-03 17:22: Round 21 has a one-pass gate list and a creator-to-product fit table ready (plan). 11-05: read the creators. 11-06: the gate.
+- 11-03 21:22: cider2's log says the boss paused the ShelfCall ad on 11-02, so drop "point the ad at the demo" and the 11-04 ad read from the sheet. The Play listing edit can still go. Flatdesk has no installs yet (cider2 reads its logs daily).
